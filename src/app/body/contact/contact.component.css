@@ -1,0 +1,15 @@
+
+#info{
+    padding-top:80px;;
+    margin-left:20px;
+}
+
+#info ::content
+{
+    width:80px;
+}
+
+
+h2{
+    padding-top:20px;
+}

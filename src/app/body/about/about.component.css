@@ -1,0 +1,14 @@
+h2{
+    padding-top:20px;
+}
+
+p{
+    line-height: 24px;
+}
+
+
+img {
+    border-radius: 50%;
+    max-width: 50%;
+    padding-bottom: 20px;
+}

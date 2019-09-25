@@ -1,0 +1,37 @@
+#mainImage{
+    max-width:100%;
+}
+
+#secondImage img
+{
+    height: 200px;
+    align-content: right;
+   
+}
+
+
+#header{
+    color:#E32A62;
+    font-size: 24px;
+    position: relative;
+    padding-top:50px;
+    display: block;
+    font-weight: 500px;
+   
+}
+
+
+#description{
+    color:#7a6666;
+    font-size:14px;
+    line-height: 24px;
+ 
+    
+}
+
+#description ::content
+{
+    align-content: stretch;
+
+    
+}
